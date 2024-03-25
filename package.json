@@ -9,7 +9,7 @@
   "main": "index",
   "dependencies": {
       "log": ">= 1.2.0"
-    , "mkdirp": "^0.5.1"
+    , "mkdirp": "0.5.1"
   },
   "devDependencies": { "should": "0.2.x" },
   "engines": { "node": "*" }
